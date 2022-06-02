@@ -3,4 +3,4 @@
 - И построить модель с предельно большим значением F1-меры.
 С использованием моделей случайного леса, на тестовой выборке, получены значения метрики F1 выше 0,59, кроме этого получены метрики Accuracy и AUC-ROC выше 0,8.
 
-- Установка соединения с репозиторием: git remote set-url origin https://YOUR_TOKEN_HERE@github.com/your_user/your_project.git
+- Подключение к репозиторию: git remote set-url origin https://YOUR_TOKEN_HERE@github.com/i-a-elkin/bank_client_churn.git
